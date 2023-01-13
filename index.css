@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(115,131,136);
+}
+
+h1{
+    color:white;
+    text-align: center;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
